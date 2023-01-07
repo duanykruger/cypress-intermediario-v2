@@ -4,7 +4,7 @@
 
 É muito bom tê-la(o) aqui. Tenho certeza que você vai adorar este curso. ❤️
 
-## O que você vai aprender
+## O que você vai aprender se adquirir este curso:
 
 Durante o curso de testes automatizados com Cypress (intermediário) você vai aprender:
 
@@ -25,9 +25,9 @@ Durante o curso de testes automatizados com Cypress (intermediário) você vai a
 - Como executar comandos à nível de sistema operacional
 - E como testar a leitura de arquivos
 
-## Vamos começar?
+## Projeto original do Walmyr Filho:
 
-Vá para a seção [estrutura do curso](./lessons/_course-structure_.md).
+Conheça o projeto original do professor: [Projeto Original](https://github.com/wlsf82/cypress-intermediario-v2).
 
 ___
 
